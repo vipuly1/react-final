@@ -7,9 +7,6 @@ class Footer extends Component {
         <div className="col-12 font-weight-light">
           <p className="text-center text-white mb-0 px-6 large">
             Copyright © <b>2021</b> All rights reserved.
-           
-
-            </a>
           </p>
         </div>
       </footer>
